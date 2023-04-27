@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Verão Com Ciência 2022</string>
+    <string name="edit_data">Edit Data</string>
+    <string name="edit_preferences">Edit Preferences</string>
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop Capture</string>
+    <string name="recording">Recording</string>
+    <string name="waiting">Waiting</string>
+    <string name="error">Error !!!</string>
+    <string name="age">Age:</string>
+    <string name="height">Height (cm):</string>
+    <string name="weight">Weight (kg):</string>
+    <string name="gender">Gender:</string>
+    <string name="save">Save</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="id">ID:</string>
+    <string name="time_before_start_capture">Time before start capture (seconds):</string>
+    <!-- permission check dialog -->
+    <string name="permission_check_dialog_title">This app needs location access</string>
+    <string name="permission_check_dialog_message">Please grant location access so this app can detect PLUX\'s Bluetooth devices</string>
+    <string name="permission_check_dialog_positive_button">OK</string>
+    <!-- permission denied dialog -->
+    <string name="permission_denied_dialog_title">Functionality limited</string>
+    <string name="permission_denied_dialog_message">Since location access has no been granted, this app will not be able to discover bluetooth devices.</string>
+    <string name="permission_denied_dialog_positive_button">OK</string>
+    <string name="physical_test">Physical Test</string>
+</resources>
